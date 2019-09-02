@@ -1,5 +1,5 @@
 # ML-and-AI-projects
-This Basic of ML/AI repository contain the basic of ML/AI projects 
+This contain the ML/AI projects.
 1) Linear Regression module development using scipy module
    Details: Here we have used height-weight.csv dataset , by using this we have found out the relation between the height-weight .
             The various linear regression coeffienent i.e. slope and intercept are found out.
