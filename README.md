@@ -8,5 +8,5 @@ This contain the ML/AI projects.
             
 2) Exploratory Data Analysis
    Details: Here Exploratory Data Analysis id done on movie-lens dataset.
-   Refer file name :-  
+   Refer file name :- EDA_movie_lens_dataset.rar  
             
