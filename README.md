@@ -1,4 +1,4 @@
-# ML-and-AI-projects
+# Machine Learning Projects
 This contain the Machine Learning projects.
 1) Linear Regression module development using scipy module
    Details: Here we have used height-weight.csv dataset , by using this we have found out the relation between the height-weight .
