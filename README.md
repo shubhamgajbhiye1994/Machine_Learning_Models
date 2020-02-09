@@ -9,4 +9,9 @@ This contain the Machine Learning projects.
 2) Exploratory Data Analysis
    Details: Here Exploratory Data Analysis id done on movie-lens dataset.
    Refer file name :- EDA_movie_lens_dataset.rar  
+   
+3) Airplane Crash Severity (Imbalance Classification) Prediction
+   Details : Here the Airplane Crash dataset has been given which is imbalance data.We need to predict the severity of airplane crash.
+             The dataset taken from HackerEarth ML Competition. 
+   Refer file name :- Severity Challenge.rar 
             
