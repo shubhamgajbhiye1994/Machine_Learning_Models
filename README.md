@@ -19,3 +19,7 @@ This contain the Machine Learning projects.
    Details : Different Linear Regression models are used for comparision for model performace and How EDA help us to analyz data,decision
              decision making,feature selection and feature engineering. Dataset used for this is auto-mpg.csv
    Refer file name :- Multivarient_LR.rar
+   
+5) Concrete Strength Prediction
+   Details : Modeling of strength of high performance concrete using Machine Learning need to be done. 
+   Refer file name :- concretestrength.rar
