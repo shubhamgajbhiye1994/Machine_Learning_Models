@@ -13,7 +13,7 @@ This contain the Machine Learning projects.
 3) Airplane Crash Severity (Imbalance Classification) Prediction
    Details : Here the Airplane Crash dataset has been given which is imbalance data.We need to predict the severity of airplane crash.
              The dataset taken from HackerEarth ML Competition. 
-   Refer file name :- Severity Challenge.rar 
+   Refer file name :- Severity Challenge.rar  New modified algo - Severity Challenge-Part2.rar
    
 4) EDA and Aanlysis of Different Linear Regression Models
    Details : Different Linear Regression models are used for comparision for model performace and How EDA help us to analyz data,decision
