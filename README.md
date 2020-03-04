@@ -33,5 +33,5 @@ conversion rate of over 9% success. This has encouraged the retail marketing dep
              
 7) CASE STUDY : EMPLOYEE ATTRITION CONTROL
    Deatils :Predicting which employees are prone to leave next using information from existing employees and those that had left
-   Note : Ref file contain submission file , in that you find the actual status , predicted lightgbm and xgboost status values.
+   Note : Ref file contain 2 submission file one with xgboost and one with lightgbm
    Ref File: utiva-python-bigdata-cohort1-20200304T094934Z-001.rar
